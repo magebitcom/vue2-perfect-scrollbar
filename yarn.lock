@@ -5846,9 +5846,9 @@ pbkdf2@^3.0.3:
     safe-buffer "^5.0.1"
     sha.js "^2.4.8"
 
-"perfect-scrollbar@https://github.com/MikusMarkevicsMagebit/perfect-scrollbar":
+"perfect-scrollbar@https://github.com/magebitcom/perfect-scrollbar":
   version "1.5.1"
-  resolved "https://github.com/MikusMarkevicsMagebit/perfect-scrollbar#f6297370ce26d78ea15fd34687b3f3cbf52dbcd5"
+  resolved "https://github.com/magebitcom/perfect-scrollbar#f6297370ce26d78ea15fd34687b3f3cbf52dbcd5"
 
 performance-now@^2.1.0:
   version "2.1.0"
